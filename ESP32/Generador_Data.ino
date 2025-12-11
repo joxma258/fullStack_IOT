@@ -5,8 +5,8 @@
 #include <time.h>
 
 //CREDENCIALES PARA INTERNET
-const char* ssid     = "NETLIFE-HERRERA";
-const char* password = "1002099867";
+const char* ssid     = "*********";
+const char* password = "******";
 
 // Configuracion de Zona Horaria Guayaquil/Quito
 const long gmtOffset_sec = -5 * 3600; // -18000 segundos
